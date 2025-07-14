@@ -58,14 +58,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/FlagGame">
+      <a href="https://github.com/cong2738/FlagGame">
         <b>FlagGame</b><br>
         ISP, Marker Tracking Game (SystemVerilog)<br>
         <code>SystemVerilog</code>
       </a>
     </td>
     <td>
-      <a href="https://github.com/yourusername/my_RISC-V">
+      <a href="https://github.com/cong2738/my_RISC-V">
         <b>my_RISC-V</b><br>
         RV32I CPU 설계 및 테스트<br>
         <code>Verilog</code> <code>C</code>
@@ -74,14 +74,14 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/yourusername/May_team_project_I2C_SPI">
+      <a href="https://github.com/cong2738/May_team_project_I2C_SPI">
         <b>I2C/SPI Team Project</b><br>
         I2C/SPI + AMBA AXI (VHDL)<br>
         <code>VHDL</code>
       </a>
     </td>
     <td>
-      <a href="https://github.com/yourusername/HarmanSemiconAcademy_2025April_TeamProject">
+      <a href="https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject">
         <b> Harman APB SoC</b><br>
         RISC-V + APB 통합 설계<br>
         <code>SystemVerilog</code>
