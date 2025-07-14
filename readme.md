@@ -2,7 +2,7 @@
 
 > 안녕하세요! 이론과 실습을 모두 겪은 손으로 설계하는 RISC-V 기반 시스템 개발자입니다.
 
-# 🌟 About Me & How to Connect
+# 🌟 About Me
 
 🏫  강원대학교 전기전자공학과
 
