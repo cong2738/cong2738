@@ -60,13 +60,12 @@
 - [FlagGame](https://github.com/cong2738/FlagGame)  
   ISP 기반 마커 트래킹 게임 | `SystemVerilog`
 
-- [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
-  멀티사이클 RISC-V CPU 설계 | `Verilog` `C`
-
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
   i2c, spi develop/simulation with AMBA AXI MYRISC-V | `VHDL`
 
 - [Harman APB SoC](https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject)  
   APB 버스 통합 시스템 | `SystemVerilog`
   
+- [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
+  멀티사이클 RISC-V CPU 설계 | `Verilog` `C`
 ---
