@@ -10,6 +10,8 @@
 
 🏆 **강원대학교 IT대학 졸업작품 경진대회 우수상 수상**
 
+📧  **Email** | cong2738@gmail.com
+
 # 🛠️ HW Engineer
 
 > 💡 저는  RTL Design / Verification에 분야에 열정을 가진 **HW 엔지니어** 박호윤 입니다!
