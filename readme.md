@@ -61,10 +61,10 @@
   ISP 기반 마커 트래킹 게임 | `SystemVerilog`
 
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
-  i2c, spi develop/simulation with AMBA AXI MYRISC-V | `VHDL`
+  i2c, spi 통신 RTL 설계/검증 with AMBA AXI | `VHDL`
 
 - [Harman APB SoC](https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject)  
-  APB 버스 통합 시스템 | `SystemVerilog`
+  APB 버스 RTL 설계/검증 with MyRISC-V | `SystemVerilog`
   
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
   멀티사이클 RISC-V CPU 설계 | `Verilog` `C`
