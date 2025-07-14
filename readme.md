@@ -55,16 +55,16 @@
 
 # 📑Project
 
-- [FlagGame](https://github.com/yourusername/FlagGame)  
+- [FlagGame](https://github.com/cong2738/FlagGame)  
   ISP 기반 마커 트래킹 게임 | `SystemVerilog`
 
-- [my_RISC-V](https://github.com/yourusername/my_RISC-V)  
+- [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
   멀티사이클 RISC-V CPU 설계 | `Verilog` `C`
 
-- [I2C/SPI Team Project](https://github.com/yourusername/May_team_project_I2C_SPI)  
+- [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
   I2C/SPI + AMBA AXI 시스템 | `VHDL`
 
-- [Harman APB SoC](https://github.com/yourusername/HarmanSemiconAcademy_2025April_TeamProject)  
+- [Harman APB SoC](https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject)  
   APB 버스 통합 시스템 | `SystemVerilog`
   
 ---
