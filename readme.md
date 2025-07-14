@@ -17,10 +17,7 @@
 
 # 🛠️ HW Engineer
 
-<aside>
-💡 저는  RTL Design / Verification에 분야에 열정을 가진 **HW 엔지니어** 박호윤 입니다!
-
-</aside>
+> 💡 저는  RTL Design / Verification에 분야에 열정을 가진 **HW 엔지니어** 박호윤 입니다!
 
 - FPGA 기반 **멀티사이클 RV32I CPU 및 SoC 설계** 경험이 있습니다.
 - **SPI, I2C, APB 버스** 등 다양한 통신 모듈을 RTL로 구현하고, **SystemVerilog**로 검증 환경을 구축한 경험이 있습니다.
