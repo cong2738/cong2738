@@ -55,6 +55,39 @@
 
 # 📑Project
 
-[제목 없음](%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%A5%E1%86%B9%E1%84%8B%E1%85%B3%E1%86%B7%2021cac6dfabf38191a019f03ba0c76b66.csv)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/yourusername/FlagGame">
+        <b>FlagGame</b><br>
+        ISP, Marker Tracking Game (SystemVerilog)<br>
+        <code>SystemVerilog</code>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yourusername/my_RISC-V">
+        <b>my_RISC-V</b><br>
+        RV32I CPU 설계 및 테스트<br>
+        <code>Verilog</code> <code>C</code>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/yourusername/May_team_project_I2C_SPI">
+        <b>I2C/SPI Team Project</b><br>
+        I2C/SPI + AMBA AXI (VHDL)<br>
+        <code>VHDL</code>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yourusername/HarmanSemiconAcademy_2025April_TeamProject">
+        <b> Harman APB SoC</b><br>
+        RISC-V + APB 통합 설계<br>
+        <code>SystemVerilog</code>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
