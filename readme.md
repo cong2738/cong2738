@@ -57,22 +57,22 @@
 
 # 📑Project
 
-- [RTOS-Winecellar](plzLink)  
-  RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M` 
+- [RTOS-Winecellar](https://github.com/cong2738/wine_celler)  
+  RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M`  
 
 - [FlagGame](https://github.com/cong2738/FlagGame)  
-  ISP 기반 마커 트래킹 게임 | `SystemVerilog` `RTL`
+  ISP 기반 마커 트래킹 게임 | `SystemVerilog` `RTL`  
 
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
-  i2c, spi 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`
+  i2c, spi 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`  
 
 - [Harman APB SoC](https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject)  
-  APB 버스 RTL 설계/검증 with MyRISC-V | `SystemVerilog` `RTL` `C`
+  APB 버스 RTL 설계/검증 with MyRISC-V | `SystemVerilog` `RTL` `C`  
   
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
-  멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`
+  멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`  
 
 - [출근비서](https://github.com/cong2738/HarmanCA_project1)  
-  출근비서 | `Python` `API`
+  출근비서 | `Python` `API`  
   
 ---
