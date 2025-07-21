@@ -75,5 +75,5 @@
 - [출근비서](https://github.com/cong2738/HarmanCA_project1)  
   출근비서 | `Python` `API`  
 
-**[모든 리포지토리 보기](https://github.com/cong2738?tab=repositories)**  
+- **[모든 리포지토리 보기](https://github.com/cong2738?tab=repositories)**  
 ---
