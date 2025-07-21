@@ -58,7 +58,7 @@
 # 📑Project
 
 - [RTOS-Winecellar](plzLink)  
-  RTOS 기반 와인셀러 | `SystemVerilog` `C` `Embedded` `ARM Coretex M` `RTL`
+  RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M` 
 
 - [FlagGame](https://github.com/cong2738/FlagGame)  
   ISP 기반 마커 트래킹 게임 | `SystemVerilog` `RTL`
