@@ -72,7 +72,7 @@
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
   멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`
 
-- [출근비서]([https://github.com/cong2738/my_RISC-V](https://github.com/cong2738/HarmanCA_project1)  
+- [출근비서](https://github.com/cong2738/my_RISC-V](https://github.com/cong2738/HarmanCA_project1)  
   출근비서 | `Python` `API`
   
 ---
