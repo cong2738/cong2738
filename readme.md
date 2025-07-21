@@ -57,6 +57,9 @@
 
 # 📑Project
 
+- [RTOS-Winecellar](plzLink)  
+  RTOS 기반 와인셀러 | `SystemVerilog` `C` `Embedded` `ARM Coretex M` `RTL`
+
 - [FlagGame](https://github.com/cong2738/FlagGame)  
   ISP 기반 마커 트래킹 게임 | `SystemVerilog` `RTL`
 
@@ -68,4 +71,8 @@
   
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
   멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`
+
+- [출근비서]([https://github.com/cong2738/my_RISC-V](https://github.com/cong2738/HarmanCA_project1))  
+  출근비서 | `Python` `API`
+  
 ---
