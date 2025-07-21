@@ -38,7 +38,7 @@
 
 - **SystemVerilog**로 복잡한 테스트벤치 환경을 구축하고, 다양한 명령어/모듈의 검증을 수행한 경험이 있습니다.
 - **RISC-V APB 시스템**, **SPI/I2C 모듈**, **영상처리 시스템**에 대한 테스트 환경을 직접 작성하였습니다.
-- **I2C 통신 모듈**을 대상으로 **UVM (Universal Verification Methodology)**을 적용하여, **단위 모듈 및 시스템 통합 수준의 검증 흐름 구성** 경험이 있습니다.
+- **I2C 통신 모듈**을 대상으로 **UVM**(Universal Verification Methodology)을 적용하여, **단위 모듈 및 시스템 통합 수준의 검증 흐름 구성** 경험이 있습니다.
 
 ## Embedded
 
