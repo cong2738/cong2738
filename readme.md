@@ -57,17 +57,17 @@
 
 # 📑Project
 
+- [FlagGame](https://github.com/cong2738/FlagGame)  
+  영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design | `SystemVerilog` `RTL`
+  
 - [RTOS-Winecellar](https://github.com/cong2738/wine_celler)  
   RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M`  
-
-- [FlagGame](https://github.com/cong2738/FlagGame)  
-  ISP 기반 마커 트래킹 게임 | `SystemVerilog` `RTL`  
-
+  
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
-  i2c, spi 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`  
+  I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`  
 
-- [Harman APB SoC](https://github.com/cong2738/SmartFarmSensorSystem)  
-  APB 버스 RTL 설계/검증 with MyRISC-V | `SystemVerilog` `RTL` `C`  
+- [SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)  
+  AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템 | `SystemVerilog` `RTL` `C`  
   
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
   멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`  
