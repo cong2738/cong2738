@@ -66,7 +66,7 @@
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
   i2c, spi 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`  
 
-- [Harman APB SoC](https://github.com/cong2738/HarmanSemiconAcademy_2025April_TeamProject)  
+- [Harman APB SoC](https://github.com/cong2738/SmartFarmSensorSystemt)  
   APB 버스 RTL 설계/검증 with MyRISC-V | `SystemVerilog` `RTL` `C`  
   
 - [my_RISC-V](https://github.com/cong2738/my_RISC-V)  
