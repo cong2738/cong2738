@@ -64,7 +64,7 @@
   RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M`  
   
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
-  I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL`  
+  I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL` `UVM`
 
 - [SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)  
   AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템 | `SystemVerilog` `RTL` `C`  
