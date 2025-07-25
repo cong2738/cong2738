@@ -65,7 +65,7 @@
   - RTOS를 활용하여 확장성과 동시입력,처리를 보장한다
   
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
-  - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL` `UVM`
+  - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `C` `RTL` `UVM`
   - 통신 프로토콜을 직접  RTL설계하고 UVM검증한다
 
 - [SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)  
