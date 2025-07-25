@@ -66,7 +66,7 @@
   
 - [I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)  
   - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `RTL` `UVM`
-  - 통신 프로토콜을 직접 구현하고 UVM검증한다
+  - 통신 프로토콜을 직접  RTL설계하고 UVM검증한다
 
 - [SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)  
   - AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템 | `SystemVerilog` `RTL` `C`
