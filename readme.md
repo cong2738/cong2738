@@ -57,30 +57,30 @@
 
 # 📑Project
 
-- **[HandBand](https://github.com/cong2738/HandBand)**  
-  - 영상처리 모션인식 무대장치 제어시스템 | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading`
+- **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading`
+  - 영상처리 모션인식 무대장치 제어시스템
 
-- **[FlagGame](https://github.com/cong2738/FlagGame)**  
-  - 영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design | `SystemVerilog` `RTL`
+- **[FlagGame](https://github.com/cong2738/FlagGame)** | `SystemVerilog` `RTL`
+  - 영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design 
   
 - **[RTOS-Winecellar](https://github.com/cong2738/wine_celler)**  
   - RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M`
   - RTOS를 활용하여 확장성과 동시입력,처리를 보장한다
   
-- **[I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)**  
-  - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI | `SystemVerilog` `C` `RTL` `UVM`
+- **[I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)** | `SystemVerilog` `C` `RTL` `UVM`
+  - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI
   - 통신 프로토콜을 직접  RTL설계하고 UVM검증한다
 
-- **[SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)**  
-  - AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템 | `SystemVerilog` `RTL` `C`
+- **[SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)** | `SystemVerilog` `RTL` `C`
+  - AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템
   - AMBA APB Interface를 직접 구현한다
   
-- **[my_RISC-V](https://github.com/cong2738/my_RISC-V)**  
-  - 멀티사이클 RISC-V CPU 설계 | `Verilog` `RTL` `C`
+- **[my_RISC-V](https://github.com/cong2738/my_RISC-V)** | `Verilog` `RTL` `C`
+  - 멀티사이클 RISC-V CPU 설계
   - RISC-V를 직접 RTL설계하며 CPU구조와 동작에 대해 이해한다
 
-- **[출근비서](https://github.com/cong2738/HarmanCA_project1)**  
-  - Python AIP를 활용한출근비서 | `Python` `API`  
+- **[출근비서](https://github.com/cong2738/HarmanCA_project1)** | `Python` `API` 
+  - Python AIP를 활용한출근비서 
 
 - **[모든 리포지토리 보기](https://github.com/cong2738?tab=repositories)**  
 ---
