@@ -63,8 +63,8 @@
 - **[FlagGame](https://github.com/cong2738/FlagGame)** | `SystemVerilog` `RTL`
   - 영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design 
   
-- **[RTOS-Winecellar](https://github.com/cong2738/wine_celler)**  
-  - RTOS 기반 와인셀러 | `C` `Embedded` `RTOS` `ARM Coretex M`
+- **[RTOS-Winecellar](https://github.com/cong2738/wine_celler)** | `C` `Embedded` `RTOS` `ARM Coretex M`
+  - RTOS 기반 와인셀러
   - RTOS를 활용하여 확장성과 동시입력,처리를 보장한다
   
 - **[I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)** | `SystemVerilog` `C` `RTL` `UVM`
