@@ -82,6 +82,7 @@
 - **[출근비서](https://github.com/cong2738/HarmanCA_project1)** | `Python` `API` 
   - Python AIP를 활용한출근비서 
 
-- **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)**
+- **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning` 
+  - 머신러닝 영상처리를 활용한 로봇제어
 ---
 
