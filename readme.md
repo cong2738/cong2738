@@ -84,5 +84,7 @@
 
 - **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning` 
   - 머신러닝 영상처리를 활용한 로봇제어
+
+- **[레포지토리](https://github.com/cong2738?tab=repositories)**
 ---
 
