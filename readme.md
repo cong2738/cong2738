@@ -86,9 +86,11 @@
   - RISC-V를 직접 RTL설계하며 CPU구조와 동작에 대해 이해한다
 
 - **[출근비서](https://github.com/cong2738/HarmanCA_project1)** | `Python` `API`  <br/>
+<img width="231" height="300" alt="image" src="https://github.com/user-attachments/assets/0012179d-b9c9-4023-ab0c-03df688584a7" /> <br/
   - Python AIP를 활용한출근비서 
 
 - **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning`  <br/>
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6a62aca-bef2-4b8f-8571-ce2222d26fa6" /> <br/>
   - 머신러닝 영상처리를 활용한 로봇제어
 
 - **[전체 레포지토리](https://github.com/cong2738?tab=repositories)**
