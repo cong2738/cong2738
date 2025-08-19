@@ -57,7 +57,7 @@
 
 # 📑Project
 
-- **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading` `MIPI` `VDMA` <br/>
+- **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading` `MIPI` `VDMA` `AMBA AXI` <br/>
   <a href="https://github.com/cong2738/HandBand">
     <img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/74c6f5a2-a27c-490c-9f8f-b0e9369c8b8b" /> <br/>
   </a>
@@ -83,7 +83,7 @@
   - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI
   - 통신 프로토콜을 직접  RTL설계하고 UVM검증한다
 
-- **[SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)** | `SystemVerilog` `RTL` `C` <br/>
+- **[SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)** | `SystemVerilog` `RTL` `C` `AMBA APB` <br/>
   <a href="https://github.com/cong2738/SmartFarmSensorSystem">
     <img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/b859945d-2d0a-4101-b40b-65ec44ab52dc" /> <br/>
   <a/>
