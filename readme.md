@@ -90,7 +90,7 @@
   - Python AIP를 활용한출근비서 
 
 - **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning`  <br/>
-<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/c6a62aca-bef2-4b8f-8571-ce2222d26fa6" /> <br/>
+<img width="2314" height="979" alt="image" src="https://github.com/user-attachments/assets/495431f6-bec7-4e36-9185-7eede8fd3825" /> <br/>
   - 머신러닝 영상처리를 활용한 로봇제어
 
 - **[전체 레포지토리](https://github.com/cong2738?tab=repositories)**
