@@ -60,7 +60,7 @@
 - **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading` `MIPI` `VDMA`
   - 영상처리 모션인식 무대장치 제어시스템
 
-- **[FlagGame](https://github.com/cong2738/FlagGame)** | `SystemVerilog` `RTL`
+- **[FlagGame](https://github.com/cong2738/FlagGame)** | `SystemVerilog` `RTL` `ISP` `VGA`
   - 영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design 
   
 - **[RTOS-Winecellar](https://github.com/cong2738/wine_celler)** | `C` `Embedded` `RTOS` `ARM Coretex M`
