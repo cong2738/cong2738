@@ -87,7 +87,7 @@
 
 - **[출근비서](https://github.com/cong2738/HarmanCA_project1)** | `Python` `API`  <br/>
 <img width="128" height="auto" alt="image" src="https://github.com/user-attachments/assets/0012179d-b9c9-4023-ab0c-03df688584a7" /> <br/>
-  - Python AIP를 활용한출근비서 
+  - Python API를 활용한출근비서 
 
 - **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning`  <br/>
 <img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/495431f6-bec7-4e36-9185-7eede8fd3825" /> <br/>
