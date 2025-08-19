@@ -66,31 +66,31 @@
   - 영상처리 마커 트래킹 알고리즘을 활용한 FlagGame RTL Design 
   
 - **[RTOS-Winecellar](https://github.com/cong2738/wine_celler)** | `C` `Embedded` `RTOS` `ARM Coretex M` <br/>
-<img width="413" height="157" alt="image" src="https://github.com/user-attachments/assets/63e04ec3-2a2d-435d-953f-43963fefff47" /> <br/>
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/63e04ec3-2a2d-435d-953f-43963fefff47" /> <br/>
   - RTOS 기반 와인셀러
   - RTOS 멀티스레딩을 적용 확장성과 동시 입출력, 데이터처리를 보장한다
   
 - **[I2C/SPI Team Project](https://github.com/cong2738/May_team_project_I2C_SPI)** | `SystemVerilog` `C` `RTL` `UVM` <br/>
-<img width="800" height="392" alt="image" src="https://github.com/user-attachments/assets/900ceec0-a250-4bb9-b6bb-865881edcd45" /> <br/>
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/900ceec0-a250-4bb9-b6bb-865881edcd45" /> <br/>
   - I2C, SPI 통신 RTL 설계/검증 with AMBA AXI
   - 통신 프로토콜을 직접  RTL설계하고 UVM검증한다
 
 - **[SmartFarmSensorSystem](https://github.com/cong2738/SmartFarmSensorSystem)** | `SystemVerilog` `RTL` `C` <br/>
-<img width="927" height="1045" alt="image" src="https://github.com/user-attachments/assets/b859945d-2d0a-4101-b40b-65ec44ab52dc" /> <br/>
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/b859945d-2d0a-4101-b40b-65ec44ab52dc" /> <br/>
   - AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템
   - AMBA APB Interface를 직접 구현한다
   
 - **[my_RISC-V](https://github.com/cong2738/my_RISC-V)** | `Verilog` `RTL` `C` <br/>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a3575988-3aaa-4dc3-ad84-8673fb23fdc6" /> <br/>
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/a3575988-3aaa-4dc3-ad84-8673fb23fdc6" /> <br/>
   - 멀티사이클 RISC-V CPU 설계
   - RISC-V를 직접 RTL설계하며 CPU구조와 동작에 대해 이해한다
 
 - **[출근비서](https://github.com/cong2738/HarmanCA_project1)** | `Python` `API`  <br/>
-<img width="231" height="300" alt="image" src="https://github.com/user-attachments/assets/0012179d-b9c9-4023-ab0c-03df688584a7" /> <br/
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/0012179d-b9c9-4023-ab0c-03df688584a7" /> <br/
   - Python AIP를 활용한출근비서 
 
 - **[실시간 영상처리를 이용한 로봇 제어의 방법과 필요성](https://github.com/cong2738/Kangwon_university_senior_project)** | `Python` `Deeplearning`  <br/>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c6a62aca-bef2-4b8f-8571-ce2222d26fa6" /> <br/>
+<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/c6a62aca-bef2-4b8f-8571-ce2222d26fa6" /> <br/>
   - 머신러닝 영상처리를 활용한 로봇제어
 
 - **[전체 레포지토리](https://github.com/cong2738?tab=repositories)**
