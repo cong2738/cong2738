@@ -57,7 +57,7 @@
 
 # 📑Project
 
-- **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading`
+- **[HandBand](https://github.com/cong2738/HandBand)** | `SystemVerilog` `verilog` `ISP` `C` `Python` `RTL` `Embedded` `Multithreading` `MIPI` `VDMA`
   - 영상처리 모션인식 무대장치 제어시스템
 
 - **[FlagGame](https://github.com/cong2738/FlagGame)** | `SystemVerilog` `RTL`
