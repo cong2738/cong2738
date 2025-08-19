@@ -81,7 +81,7 @@
   - AMBA APB Interface를 직접 구현한다
   
 - **[my_RISC-V](https://github.com/cong2738/my_RISC-V)** | `Verilog` `RTL` `C` <br/>
-<img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/a3575988-3aaa-4dc3-ad84-8673fb23fdc6" /> <br/>
+<img width="128" height="auto" alt="image" src="https://github.com/user-attachments/assets/a3575988-3aaa-4dc3-ad84-8673fb23fdc6" /> <br/>
   - 멀티사이클 RISC-V CPU 설계
   - RISC-V를 직접 RTL설계하며 CPU구조와 동작에 대해 이해한다
 
