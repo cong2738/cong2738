@@ -89,7 +89,7 @@
   <a href="https://github.com/cong2738/SmartFarmSensorSystem">
     <img width="512" height="auto" alt="image" src="https://github.com/user-attachments/assets/b859945d-2d0a-4101-b40b-65ec44ab52dc" /> <br/>
   <a/>
-  - AMBA APB Interface my RISC-V을 활용한 스마트팜 센서 시스템
+  - My AMBA APB Interface, My RISC-V을 활용한 스마트팜 센서 시스템
   - AMBA APB Interface를 직접 구현한다
   
 - **[my_RISC-V](https://github.com/cong2738/my_RISC-V)** | `Verilog` `RTL` `C` <br/>
